@@ -1,0 +1,27 @@
+@font-face{
+	font-family: "Montserrat";
+	src: url(Montserrat-Regular.ttf);
+}
+body{
+	background-image: url(back.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1, h2{
+	font-family: "Montserrat";
+	text-align: center;
+}
+h1{
+	font-size: 65pt;
+}
+.startButton{
+	border-radius: 36px;
+	font-family: "Montserrat";
+	height: 50px;
+	width: 100px;
+
+}
+div{
+	text-align: center;
+}
